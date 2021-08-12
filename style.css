@@ -1,0 +1,13 @@
+#cana{
+  margin-top:20px;
+}
+div{
+  display:block;
+}
+#can{
+  border:1px solid #ccc;
+  background:url('https://cdn.spacetelescope.org/archives/images/thumb700x/heic1313b.jpg')
+}
+#imgg{
+  display:none;
+}
